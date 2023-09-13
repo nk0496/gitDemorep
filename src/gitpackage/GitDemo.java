@@ -9,7 +9,9 @@ public class GitDemo {
 			System.out.println("This is micro learning...................................................................");
 		}
 	}
-	
+	void Git() {
+		System.out.println("this is Git");
+	}
 	public static void main(String[] args) {
 	
 		GitDemo g= new GitDemo();
