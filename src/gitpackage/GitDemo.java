@@ -6,6 +6,7 @@ public class GitDemo {
 	void login () {
 		if (user.equals("admin@gmail.com") && pass.equals("Admin@123")){
 			System.out.println("login success");
+			System.out.println("This is micro learning...................................................................");
 		}
 	}
 	
