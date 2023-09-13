@@ -10,6 +10,7 @@ public class GitTask {
           }
           System.out.println();
         }
+		System.out.println("i");
 	}
 
 }
