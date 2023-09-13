@@ -13,6 +13,7 @@ public class Gitdemo1 {
 
 		}
 		System.out.println(nstr);
+		System.out.println(nstr);
 
 	}
 
